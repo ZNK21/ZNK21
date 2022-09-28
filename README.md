@@ -1,8 +1,6 @@
 <h1 align="center">Hi 😗, I'm Vincent</h1>
 <h3 align="center">A new and enthusiastic Web Developer from Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=znk21&label=Profile%20views&color=0e75b6&style=flat" alt="znk21" /> </p>
-
 - 🌱 I’m currently learning **Python, .NET, and backend generals.**
 
 - 📫 How to reach me **vincentbruna.oficio@gmail.com**
