@@ -1,4 +1,4 @@
-<span align="center"><img src="https://64.media.tumblr.com/9718d862bd0824c3318b9ecb9995629d/4f8b8bb03c05c8f7-f9/s1280x1920/a53fc2fa3d1376181cc3ee57a8cc2d20422e404f.gifv"></span>
+<span align="center"><img src="https://64.media.tumblr.com/9718d862bd0824c3318b9ecb9995629d/4f8b8bb03c05c8f7-f9/s1280x1920/a53fc2fa3d1376181cc3ee57a8cc2d20422e404f.gif"></span>
 <h1 align="center">Hi 😗, I'm Vincent</h1>
 <h3 align="center">A new and enthusiastic Web Developer from Chile.</h3>
 
