@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vincentbruna.oficio@gmail.com**
 
-- ⚡ Fun fact **I really like music, A L O T.**
+- ⚡ Fun fact **I really like music, a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
